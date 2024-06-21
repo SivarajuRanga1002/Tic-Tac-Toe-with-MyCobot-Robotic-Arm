@@ -1,5 +1,13 @@
 # Tic-Tac-Toe-with-MyCobot-Robotic-Arm
 
+
+Referencing my lab partner's video:
+
+![Tic-Tac-Toe](https://github.com/SivarajuRanga1002/Tic-Tac-Toe-with-MyCobot-Robotic-Arm/assets/65248651/a09b3b02-6144-4f32-aecd-2a729bd5e877)
+
+https://www.youtube.com/watch?v=fsAbi8Muey8&list=PLVMTVkBf5nwJ27I7ac7mX2-FmtAKAjzNr&index=7&ab_channel=SivarajuYashaswiRanga
+
+
 Tic Tac Toe with MyCobot Robotic Arm
 This project showcases a Tic Tac Toe game played using a 6 DOF MyCobot robotic arm by Elephant Robotics. The game leverages a Raspberry Pi 4B with WiFi modules and an ESP32 with 6 servo motors to control the robotic arm.
 
